@@ -1,0 +1,43 @@
+<html><head>
+  <SCRIPT src="http://java.com/js/dtjava.js"></SCRIPT>
+<script>
+    function launchApplication(jnlpfile) {
+        dtjava.launch(            {
+                url : 'Easy Podcast Feed Creator.jnlp'
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+        return false;
+    }
+</script>
+
+<script>
+    function javafxEmbedeasypodcastfeedcreator() {
+        dtjava.embed(
+            {
+                id : 'easypodcastfeedcreator',
+                url : 'Easy Podcast Feed Creator.jnlp',
+                placeholder : 'javafx-app-placeholder',
+                width : '0',
+                height : '0'
+            },
+            {
+                javafx : '8.0+'
+            },
+            {}
+        );
+    }
+    <!-- Embed FX application into web page once page is loaded -->
+    dtjava.addOnloadCallback(javafxEmbedeasypodcastfeedcreator);
+</script>
+
+</head><body>
+<h2>Test page for <b>Easy Podcast Feed Creator</b></h2>
+  <b>Webstart:</b> <a href='Easy Podcast Feed Creator.jnlp' onclick="return launchApplication('Easy Podcast Feed Creator.jnlp');">click to launch this app as webstart</a><br><hr><br>
+
+  <!-- Applet will be inserted here -->
+  <div id='javafx-app-placeholder'></div>
+</body></html>

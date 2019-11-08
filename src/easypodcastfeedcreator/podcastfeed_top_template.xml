@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<channel>
+  <title>---REPLACE-VALUE---</title>
+  <link>---REPLACE-VALUE---</link>
+  <description>---REPLACE-VALUE---</description>
+  <language>---REPLACE-VALUE---</language>
+    <itunes:subtitle>---REPLACE-VALUE---</itunes:subtitle>
+    <itunes:author>---REPLACE-VALUE---</itunes:author>
+    <itunes:summary>---REPLACE-VALUE---</itunes:summary>
+    <itunes:keywords>---REPLACE-VALUE---</itunes:keywords>
+    <itunes:owner>
+        <itunes:name>---REPLACE-VALUE---</itunes:name>
+        <itunes:email>---REPLACE-VALUE---</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>---REPLACE-VALUE---</itunes:explicit>
+    <itunes:image href="---REPLACE-VALUE---"/>
+    <itunes:category text="---REPLACE-VALUE---"></itunes:category>
+	
+<!-- podcast entries-->	

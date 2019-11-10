@@ -7,7 +7,11 @@ This is a (Java) desktop application to create podcast feeds. You can create iTu
 This application is available in several languages (for example: German). If you want to add a translation to this application, then feel free to contact me. Thank you for your support. 
 
 ## Installation (Deployment)
-You can find the runnable application in the folder "dist".
+
+Download the installable exe file (for Windows OS):
+https://github.com/a-dridi/EasyPodcastFeedCreator/releases
+
+You can find the runnable application (jar file) in the folder "dist".
 
 
 ## Authors

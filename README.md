@@ -11,7 +11,8 @@ This application is available in several languages (for example: German). If you
 Download the installable exe file (for Windows OS):
 https://github.com/a-dridi/EasyPodcastFeedCreator/releases
 
-You can find the runnable application (jar file) in the folder "dist".
+You can find the runnable application (jar file) in the folder "dist":
+https://github.com/a-dridi/EasyPodcastFeedCreator/tree/master/dist
 
 
 ## Authors
